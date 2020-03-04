@@ -12,6 +12,7 @@ public class FirstCommit {
 
 	public static void main( String[] args ) {
 		System.out.println( "My name is Heena Rathore and my hobby is travelling" );
+		System.out.println( "My name is Bruce Orcutt and my hobby is composing modern classical music" );
 		
 	}
 }
