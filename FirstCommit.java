@@ -17,5 +17,6 @@ public class FirstCommit {
 		System.out.println( "My name is Yi He and my hobby is watching animes." );
 		System.out.println( "My name is Paul Woody and my hobby is triathlons" );
 		System.out.println( "My name is Jennifer Ingram and my hobby is watching movies.")
+		System.out.println( "My name is Desiree Garcia and I like rock climbing." );
 	}
 }
