@@ -1,4 +1,3 @@
-
 /**
  * CS 3443 - Lab 5
  *
@@ -28,7 +27,9 @@ public class FirstCommit {
     System.out.println( "My name is Andrew DiCarlo and my hobby is playing ukulele." );
 		System.out.println( "My name is Elizabeth Nguyen and my hobby is cooking." );
     System.out.println( "My name is Abdelrhman Alaroudi and my hobby is playing soccer." );
+    System.out.println( "My name is Vi Vu and my hobby is posting my not-so-good singing on Facebook.");
 
 	}
 }
+
 
