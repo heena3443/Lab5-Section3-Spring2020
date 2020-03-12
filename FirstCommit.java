@@ -24,9 +24,7 @@ public class FirstCommit {
 		System.out.println( "My name is Grant Hickok and my hobby is playing video games" );
 		System.out.println( "My name is Corbin Styles and my hobby is playing games." );
 		System.out.println( "My name is Aaron Brown and my hobby is reading books." );
-<<<<<<< HEAD
 		System.out.println(" My name is Alana Quinones Garcia and my hobby is practicing yoga." );
-=======
 		System.out.println( "My name is Andrew DiCarlo and my hobby is playing ukulele." );
 		System.out.println( "My name is Elizabeth Nguyen and my hobby is cooking." );
 		System.out.println( "My name is Vi Vu and my hobby is posting my not-so-good singing on Facebook.");
@@ -34,6 +32,5 @@ public class FirstCommit {
 		System.out.println( "My name is Abdelrhman Alaroudi and my hobby is playing soccer" );
 		System.out.println( "My name is Kassie Garcia and my hobby is tarot reading.");
 		System.out.println( "My name is Heena Rathore and my hobby is traveling");
->>>>>>> 3e807b8a9dc1325d8ba4dcd3f6684c04ddfafe69
 	}
 }
