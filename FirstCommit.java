@@ -12,6 +12,35 @@ public class FirstCommit {
 
 	public static void main( String[] args ) {
 		System.out.println( "My name is Heena Rathore and my hobby is travelling" );
-		System.out.println( "My name is Corey Ramsdell and my hobby is reading manga" );
+
+		System.out.println( "My name is Bruce Orcutt and my hobby is composing modern classical music" );
+		System.out.println( "My name is Hunter Johnson and my hobby is looking at computer parts and wishing I had more money.");
+		System.out.println( "My name is Yi He and my hobby is watching animes." );
+		System.out.println( "My name is Paul Woody and my hobby is triathlons" );
+		System.out.println( "My name is Jennifer Ingram and my hobby is watching movies.");
+		System.out.println( "My name is Desiree Garcia and I like rock climbing." );
+		System.out.println( "My name is Jarrod Ragsdale and my hobby is mountain biking.");
+		System.out.println( "My name is Jennifer Bailey and my hobby is writing.");
+		System.out.println( "My name is Itzel Romero and my hobby is drawing.");
+		System.out.println( "My name is Grant Hickok and my hobby is playing video games" );
+		System.out.println( "My name is Corbin Styles and my hobby is playing games." );
+		System.out.println( "My name is Aaron Brown and my hobby is reading books." );
+		System.out.println(" My name is Alana Quinones Garcia and my hobby is practicing yoga." );
+		System.out.println( "My name is Andrew DiCarlo and my hobby is playing ukulele." );
+		System.out.println( "My name is Elizabeth Nguyen and my hobby is cooking." );
+		System.out.println( "My name is Vi Vu and my hobby is posting my not-so-good singing on Facebook.");
+		System.out.println( "My name is Brandon Wagner and my hobby is learning new programming languages" );
+		System.out.println( "My name is Abdelrhman Alaroudi and my hobby is playing soccer" );
+		System.out.println( "My name is Kassie Garcia and my hobby is tarot reading.");
+		System.out.println( "My name is Heena Rathore and my hobby is traveling");
+		System.out.println( "My name is Tiffany Tran and my hobby is rock climbing.");
+		System.out.println("My name is Gilberto Ramirez and my hobby is working on computers");
+		System.out.println( "My name is Richard Escalona and my hobby is hiking" );
+		System.out.println( "My name is Gage Nichols and my hobby is training rescue parrots" );
+		System.out.println( "My name is Eloy Rodriguez and my hobby is Exotic game hunting" );
+		System.out.println("My name is Dale Graham and my hobby is playing video games");
+		System.out.println("My name is Maria Jose Healey and my hobby is playing basketball");
+		System.out.println("My name is Elijah Lozano and my hobby is watching critically acclaimed movies.");
+    System.out.println( "My name is Corey Ramsdell and my hobby is reading manga" );
 	}
 }
