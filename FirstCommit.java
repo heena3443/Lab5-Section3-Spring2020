@@ -12,8 +12,7 @@ public class FirstCommit {
 	public static void main(String[] args) {
 		System.out.println("My name is Heena Rathore and my hobby is travelling");
 		System.out.println("My name is Bruce Orcutt and my hobby is composing modern classical music");
-		System.out.println(
-				"My name is Hunter Johnson and my hobby is looking at computer parts and wishing I had more money.");
+		System.out.println("My name is Hunter Johnson and my hobby is looking at computer parts and wishing I had more money.");
 		System.out.println("My name is Yi He and my hobby is watching animes.");
 		System.out.println("My name is Paul Woody and my hobby is triathlons");
 		System.out.println("My name is Jennifer Ingram and my hobby is watching movies.");
@@ -39,13 +38,12 @@ public class FirstCommit {
 		System.out.println("My name is Eloy Rodriguez and my hobby is Exotic game hunting");
 		System.out.println("My name is Dale Graham and my hobby is playing video games");
 		System.out.println("My name is Maria Jose Healey and my hobby is playing basketball");
-		System.out.println("My name is Elijah Lozano and my hobby is cycling.");
+		System.out.println("My name is Elijah Lozano and my hobby is cycling and video games.");
 		System.out.println("My name is Joseph D'Amico and my hobby is Dungeons & Dragons.");
 		System.out.println("My name is Zack Ulloa and my hobby is Martial Arts.");
 		System.out.println("My name is Kathryn Dyches and my hobby is digital art.");
 		System.out.println("My name is Garrett Lyssy and my hobby is building computers.");
 		System.out.println("My name is Vincent Chao and my hobby is playing basketball.");
 		System.out.println("My name is Nicolas Ruiz and my hobby is singing and learning instruments");
-    System.out.println("My name is Elijah Lozano and my other hobby is watching movies.");
 	}
 }
