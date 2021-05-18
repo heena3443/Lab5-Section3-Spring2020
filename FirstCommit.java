@@ -1,3 +1,5 @@
+import jdk.javadoc.internal.doclets.formats.html.SourceToHTMLConverter;
+
 /**
  * CS 3443 - Lab 5
  *
@@ -46,7 +48,7 @@ public class FirstCommit {
 		System.out.println("My name is Vincent Chao and my hobby is playing basketball.");
 		System.out.println("My name is Nicolas Ruiz and my hobby is singing and learning instruments");
 		System.out.println("My name is Steven Paredes and my hobby is gastronomy");
-		System.out.println("My name is Robert Quintanilla and my hobby is drumming);
+		System.out.println("My name is Robert Quintanilla and my hobby is drumming");
 		System.out.println("My name is Benjamin Parrish and my hobby is trolling on reddit");
 		System.out.println("My name is Kevin Garcia and my hobby is playing billiards.");
 		System.out.println("My name is James Logan and my hobby is people watching.");
@@ -59,7 +61,7 @@ public class FirstCommit {
 		System.out.println("My name is Ivan Rivera and my hobby is playing video games.");
 		System.out.println("My name is Fabian Burgarin and my hobby is playing soccer.");
 		System.out.println("My name is Kara Gustavus and my hobby is baking");
-    System.out.println("My name is Michael Lawrence and my hobby is hiking.");
+    	System.out.println("My name is Michael Lawrence and my hobby is hiking.");
 		System.out.println("My name is Mazen Shaban and my hobby is photography");
 		System.out.println("My name is Issabela Castro and my hobby is playing video games");
 		System.out.println("My name is Amelia Cruz and my hobby is playing video games.");
